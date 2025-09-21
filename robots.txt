@@ -1,0 +1,11 @@
+# robots.txt for The Shallom Brand
+# Allow all search engines to crawl the main pages
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /scripts/
+Disallow: /private/
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.theshallombrand.com/sitemap.xml
